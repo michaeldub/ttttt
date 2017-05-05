@@ -10,5 +10,6 @@ namespace WebApplication2.Models
         private String name;
         private String anothername;
         private String wwwww;
+        private int e;
     }
 }
